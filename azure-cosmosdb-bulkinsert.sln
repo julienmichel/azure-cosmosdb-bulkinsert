@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-cosmosdb-bulkinsert", "azure-cosmosdb-bulkinsert\azure-cosmosdb-bulkinsert.csproj", "{DD3AAE21-C9D5-46EA-A51B-3D3D6E8008E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-cosmosdb-bulkinsert-streamapi", "azure-cosmosdb-bulkinsert-streamapi\azure-cosmosdb-bulkinsert-streamapi.csproj", "{477F82E0-5619-40B9-92DB-9980431B3E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3AAE21-C9D5-46EA-A51B-3D3D6E8008E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3AAE21-C9D5-46EA-A51B-3D3D6E8008E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3AAE21-C9D5-46EA-A51B-3D3D6E8008E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3AAE21-C9D5-46EA-A51B-3D3D6E8008E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477F82E0-5619-40B9-92DB-9980431B3E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477F82E0-5619-40B9-92DB-9980431B3E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477F82E0-5619-40B9-92DB-9980431B3E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477F82E0-5619-40B9-92DB-9980431B3E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DA36BF-9381-4457-864F-6C0490606FD7}
+	EndGlobalSection
+EndGlobal
